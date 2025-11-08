@@ -1,0 +1,4 @@
+# .eslintignore
+
+# This will disable ESLint for your *entire* app
+src/
